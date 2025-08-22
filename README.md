@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Hey there! I'm Prayapti Patil 🌟
+# Hey there! I'm Prayapti Patil 🌟
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=800&color=00FF00&multiline=true&center=true&width=700&height=70&lines=💡+Turning+ideas+into+solutions;where+creativity+meets+technology.+🚀" alt="Typing SVG" />
 </p>
