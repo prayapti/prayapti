@@ -17,20 +17,11 @@ Software Engineer | Full-Stack Developer
 
 ## Tech Stack
 
-**Languages**
-- JavaScript, Java, Python
-
-**Frontend**
-- HTML, CSS, React
-
-**Backend**
-- Node.js, Express
-
-**Databases**
-- MongoDB, MySQL
-
-**Tools**
-- Git, GitHub, VS Code, IntelliJ IDEA
+**Languages:** JavaScript, Java, Python  
+**Frontend:** HTML, CSS, React  
+**Backend:** Node.js, Express  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 
 ---
 
