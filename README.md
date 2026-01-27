@@ -1,20 +1,18 @@
 <div align="center">
 
 # Prayapti Patil
-**B.E. Information Technology (2027)**  
-Aspiring Software Engineer | Full-Stack Developer
+**B.E. Information Technology **  
+Software Engineer | Full-Stack Developer
 
 </div>
 
 ---
 
-## About Me
+## About Me 
 
-- Final-year IT student focused on **Data Structures, Algorithms, and Full-Stack Development**
-- Experience with **MERN stack** and building real-world projects
-- Actively preparing for **SDE internships** and open to collaborative development
-- Interested in scalable systems, backend engineering, and problem-solving
-
+- Third-year B.E. IT student
+- Focused on Data Structures and Algorithms
+- Experience with MERN stack projects
 ---
 
 ## Tech Stack
@@ -41,6 +39,7 @@ Aspiring Software Engineer | Full-Stack Developer
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=prayapti&show_icons=true&theme=transparent" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayapti&layout=compact&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=prayapti&theme=transparent&hide_border=true" />
 </div>
 
 ---
