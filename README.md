@@ -42,8 +42,9 @@ Software Engineer | Full-Stack Developer
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=prayapti&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=prayapti&hide_border=true&theme=default" />
 </div>
+
 
 
 ---
