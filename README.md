@@ -41,12 +41,6 @@ Software Engineer | Full-Stack Developer
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayapti&layout=compact&theme=transparent" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prayapti&hide_border=true&theme=default" />
-</div>
-
-
-
 ---
 
 ## Connect With Me
