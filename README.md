@@ -35,15 +35,22 @@ Software Engineer | Full-Stack Developer
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prayapti&theme=tokyo-night&hide_border=true" />
+  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=prayapti&theme=tokyo-night&hide_border=true" />
 </p>
 
 
 
-## Connect With Me
 
-- **LinkedIn:** https://linkedin.com/in/prayaptipatil  
-- **Email:** prayaptipatil@gmail.com
+<h3 align="center">🔗 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/prayaptipatil">
+    <img src="https://img.shields.io/badge/LinkedIn-Prayapti%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prayaptipatil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-prayaptipatil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 ⭐ *Focused on learning, building, and improving every day.*
