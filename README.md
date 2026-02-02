@@ -40,15 +40,20 @@ Software Engineer | Full-Stack Developer
 
 
 
-
 <h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
-  <a href="https://linkedin.com/in/prayaptipatil"> linkedin.com/in/prayaptipatil</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
-  <a href="mailto:prayaptipatil@gmail.com"> prayaptipatil@gmail.com</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align:middle;" />
+  <a href="https://linkedin.com/in/prayaptipatil" style="margin-left:6px;">
+    linkedin.com/in/prayaptipatil
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" style="vertical-align:middle;" />
+  <a href="mailto:prayaptipatil@gmail.com" style="margin-left:6px;">
+    prayaptipatil@gmail.com
+  </a>
 </p>
 
 
