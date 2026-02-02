@@ -31,23 +31,17 @@ Software Engineer | Full-Stack Developer
   <img width="320" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prayapti&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
----
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img width="750" src="https://github-readme-activity-graph.vercel.app/graph?username=prayapti&theme=tokyo-night&hide_border=true" />
-</p>
-
-
 
 <h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" style="vertical-align:middle;" />
-  <a href="https://linkedin.com/in/prayaptipatil" style="margin-left:6px;">
+  <a href="https://linkedin.com/in/prayaptipatil"
+     style="margin-left:6px; color:#c9d1d9; text-decoration:none;">
     linkedin.com/in/prayaptipatil
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" style="vertical-align:middle;" />
