@@ -24,14 +24,14 @@ Software Engineer | Full-Stack Developer
 
 
 ---
+<h3 align="center">📊 GitHub Stats<h3/>
+<br/>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prayapti&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayapti&layout=compact&theme=transparent" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=prayapti&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prayapti&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
 ---
 
 ## Connect With Me
