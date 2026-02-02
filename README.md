@@ -27,7 +27,7 @@ Software Engineer | Full-Stack Developer
 <h3 align="center">📊 GitHub Stats<h3/>
 <br/>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=prayapti&theme=tokyonight&hide_border=true" />
   <br />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prayapti&theme=tokyonight&layout=compact&hide_border=true" />
