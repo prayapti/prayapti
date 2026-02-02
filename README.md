@@ -35,7 +35,7 @@ Software Engineer | Full-Stack Developer
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=prayapti&theme=tokyo-night&hide_border=true" />
+  <img width="750" src="https://github-readme-activity-graph.vercel.app/graph?username=prayapti&theme=tokyo-night&hide_border=true" />
 </p>
 
 
@@ -44,13 +44,13 @@ Software Engineer | Full-Stack Developer
 <h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prayaptipatil">
-    <img src="https://img.shields.io/badge/LinkedIn-Prayapti%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:prayaptipatil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prayaptipatil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
+  <a href="https://linkedin.com/in/prayaptipatil"> linkedin.com/in/prayaptipatil</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
+  <a href="mailto:prayaptipatil@gmail.com"> prayaptipatil@gmail.com</a>
 </p>
+
 
 ---
 ⭐ *Focused on learning, building, and improving every day.*
