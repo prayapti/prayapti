@@ -32,11 +32,12 @@ Software Engineer | Full-Stack Developer
 </p>
 
 ---
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prayapti/prayapti/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prayapti&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 
 ## Connect With Me
